@@ -1,15 +1,16 @@
 # 代码框的使用
 
-### 通过反引号将代码包裹起来实现效果
+### 通过4个空格或者一个tab键在文字开头使用即可
 
 > Python 例子
 
-` import time
-  import sys
+	import time 
+	import sys 
 
-  print "hello world"
+	print "hello world"
 
-  def funtion():
-  	print "funtion test."
-	return 0
-`
+	def funtion():
+  		print "funtion test."
+		return 0
+	funtion()
+
