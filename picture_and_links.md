@@ -10,6 +10,6 @@
 
 #### 插入图片
 
-![images](./pict.png)
+![images](./Mat.jpg)
 
-> 语法：通过\!\[images\]\(http://picture.png)
+> 语法：通过\!\[images\]\(http://url/picture.png)
