@@ -6,10 +6,10 @@
 
 [http://www.baidu.com](http://www.baidu.com)
 
-> 语法：通过\[http://www.baidu.com\]\(http://www.baidu.com\)
+> 语法：通过\[http://www.baidu.com](http://www.baidu.com)
 
 #### 插入图片
 
 ![images](./pict.png)
 
-> 语法：通过\!\[images\]\(http://picture.png\)
+> 语法：通过\!\[images\]\(http://picture.png)
