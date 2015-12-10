@@ -8,6 +8,8 @@
 
 > 语法：通过\[http://www.baidu.com](http://www.baidu.com)
 
+> 语法：通过\[url name](url://url_path/picture)
+
 #### 插入图片
 
 ![images](./Mat.jpg)
